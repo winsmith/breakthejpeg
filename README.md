@@ -21,3 +21,7 @@ I want this script to be able to upload the generated image as Twitter avatar as
 </tr>
 </table>
 
+## Usage
+From Terminal
+
+    python breakthejpeg.py source.jpg glitch.jpg
